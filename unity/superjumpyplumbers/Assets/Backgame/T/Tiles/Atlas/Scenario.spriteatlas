@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Scenario
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 258c34cdb0e256a44894834cf62b220f, type: 3}
+    - {fileID: 2800000, guid: 9be42539823e693448a20d32bc5a29a2, type: 3}
+    - {fileID: 2800000, guid: 901457d40898ab842b75067f8feacbb8, type: 3}
+    - {fileID: 2800000, guid: 041e67ffdb53b5747a0b3b91e16c09f3, type: 3}
+    - {fileID: 2800000, guid: aa7d80bf267faa049973cf32ae583a22, type: 3}
+    - {fileID: 2800000, guid: 901457d40898ab842b75067f8feacbb8, type: 3}
+    - {fileID: 2800000, guid: 737d691c06058b547bf2b136c94686c1, type: 3}
+    - {fileID: 2800000, guid: e482944da67be554284813e6071e1bb3, type: 3}
+    - {fileID: 2800000, guid: 688b3a2b23d4ca94fb00ecec7a2eba15, type: 3}
+    - {fileID: 2800000, guid: e497d6b6bc7ab1942a05b6506ae52e81, type: 3}
+    totalSpriteSurfaceArea: 147456
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 901457d40898ab842b75067f8feacbb8, type: 3}
+  - {fileID: 21300000, guid: e497d6b6bc7ab1942a05b6506ae52e81, type: 3}
+  - {fileID: 21300000, guid: 9be42539823e693448a20d32bc5a29a2, type: 3}
+  - {fileID: 21300000, guid: 688b3a2b23d4ca94fb00ecec7a2eba15, type: 3}
+  - {fileID: 21300000, guid: 737d691c06058b547bf2b136c94686c1, type: 3}
+  - {fileID: 21300000, guid: e482944da67be554284813e6071e1bb3, type: 3}
+  - {fileID: 21300000, guid: 258c34cdb0e256a44894834cf62b220f, type: 3}
+  - {fileID: 21300000, guid: aa7d80bf267faa049973cf32ae583a22, type: 3}
+  - {fileID: 21300000, guid: 041e67ffdb53b5747a0b3b91e16c09f3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - rightBlueBase1
+  - singleGrayGroundBellow1
+  - middleBlueBase1
+  - singleRedEnemieSpawner1
+  - singleBlueBase1
+  - singleBlueFloatingPlataform1
+  - leftBlueBase1
+  - middleBlueFloatingPlataform1
+  - leftBlueFloatingPlataform1
+  m_Tag: Scenario
+  m_IsVariant: 0
